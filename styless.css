@@ -77,3 +77,38 @@ body {
     width: 40%;
     margin: 50px auto;
   }
+  /********************container part***************************/
+.top-container {
+    background-color: #c3edea;
+    position: relative;
+    padding: 100px;
+  }
+  .middle-container {
+    padding-top: 100px;
+  }
+  .bottom-container {
+    background-color: #66bfbf;
+    height: 100px;
+    font-family: "Montserrat", sans-serif;
+    padding: 50px 0 20px;
+  }
+  .span {
+    text-decoration: underline;
+  }
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+  
+  .bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  .copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  
